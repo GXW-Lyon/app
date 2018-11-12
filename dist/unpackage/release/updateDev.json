@@ -1,0 +1,11 @@
+{
+    "appid":"H5A9387B4",
+    "wgtURL": "http://s.55duanzi.com/newsapp/H5A9387B4.wgt",
+　　"apkURL": {
+		"link":"http://s.55duanzi.com/newsapp/H5A9387B4_0629154620.apk",
+	},
+　　"ipaURL": "appStore中下载的地址",
+ 　 "version": "1.1.8.8",
+    "ios": "1",
+    "android": "2"
+}

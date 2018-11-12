@@ -1,0 +1,9 @@
+{ 
+    "appid":"H56EA021E", 
+    "wgtURL": "http://apmou.cn/newsapp/H56EA021E.wgt", 
+　　"apkURL": "http://apmou.cn/newsapp/koudai_v1.0.0.3_0528.apk", 
+　　"ipaURL": "appStore中下载的地址", 
+ 　 "version": "1.0.0.8",
+    "ios": "1", 
+    "android": "3" 
+}

@@ -1,0 +1,19 @@
+{ 
+    "appid":"H56EA021E", 
+    "wgtURL": "http://s.55duanzi.com/newsapp/H56EA021E.wgt", 
+　　"apkURL": {
+		"link":"http://s.55duanzi.com/newsapp/koudai_v1.2_0706_link.apk",
+		"001":"http://s.55duanzi.com/newsapp/kdtt_2345shouzhu_001_0706.apk",
+		"002":"http://s.55duanzi.com/newsapp/kdtt_xunfei_002_0706.apk",
+		"003":"http://s.55duanzi.com/newsapp/kdtt_yuzhuang_003_0706.apk",
+		"004":"http://s.55duanzi.com/newsapp/kdtt_qudao_004_0706.apk",
+		"005":"http://s.55duanzi.com/newsapp/kdtt_wifi_005_0706.apk",
+		"006":"http://s.55duanzi.com/newsapp/kdtt_wifi_006_0706.apk",
+		"007":"http://s.55duanzi.com/newsapp/kdtt_miaopai_007_0706.apk",
+		"008":"http://s.55duanzi.com/newsapp/kdtt_chelun_008_0706.apk",
+	},
+　　"ipaURL": "appStore中下载的地址", 
+ 　 "version": "1.2",
+    "ios": "1", 
+    "android": "2" 
+}
